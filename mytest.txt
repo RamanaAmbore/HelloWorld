@@ -1,0 +1,13 @@
+ Volume in drive C has no label.
+ Volume Serial Number is C61D-0CA4
+
+ Directory of C:\Users\ambore\HelloWorld
+
+09/22/2018  10:58 AM    <DIR>          .
+09/22/2018  10:58 AM    <DIR>          ..
+09/22/2018  10:58 AM             1,319 index.md
+09/22/2018  10:58 AM                 0 mytest.txt
+09/22/2018  10:58 AM                55 README.md
+09/22/2018  10:58 AM                27 _config.yml
+               4 File(s)          1,401 bytes
+               2 Dir(s)  25,519,652,864 bytes free
